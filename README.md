@@ -35,7 +35,7 @@ Project Description:
 
 Credits:
 
-  Sarah Yaw - Base code, Administrative tasks, Integration help
+  Yu Zhang  - Base code, Administrative tasks, Integration help
   
   [@bpurbancic](https://github.com/bpurbancic) - Certificate Store
   
