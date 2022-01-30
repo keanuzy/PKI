@@ -1,5 +1,5 @@
 
-Creators: Sarah Yaw, [@bpurbancic](https://github.com/bpurbancic), [@PaytonSims3](https://github.com/PaytonSims3), [@yu-zha](https://github.com/yu-zha), and [@fchandoo](https://github.com/fchandoo).
+Creators: Yu Zhang, Sarah Yaw, [@bpurbancic](https://github.com/bpurbancic), [@PaytonSims3](https://github.com/PaytonSims3), [@yu-zha](https://github.com/yu-zha), and [@fchandoo](https://github.com/fchandoo).
 
 NOTE: We will make all changes to the working repo and branches off of it. These changes will be merged into master after group review.
 
@@ -35,7 +35,7 @@ Project Description:
 
 Credits:
 
-  Sarah Yaw - Base code, Administrative tasks, Integration help
+  Yu Zhang  - Base code, Administrative tasks, Integration help
   
   [@bpurbancic](https://github.com/bpurbancic) - Certificate Store
   
